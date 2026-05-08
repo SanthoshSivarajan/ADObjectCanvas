@@ -7,7 +7,7 @@
 > Single-file PowerShell. Single-file HTML report. Every object class, every domain, every replicating partition.
 
 **Author:** Santhosh Sivarajan, Microsoft MVP
-**Email:** [santhosh@sivarajan.com](mailto:santhosh@sivarajan.com)
+**Email:** [santhosh@sivarajan.com]()
 **Latest Version:** 1.5.0
 **License:** MIT
 
