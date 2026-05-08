@@ -237,6 +237,38 @@ A few patterns the report surfaces well:
 MIT — Free to use, modify, and distribute. See [LICENSE.txt](LICENSE.txt).
 
 ---
+## Screenshots
+
+### 1
+![Summary](screenshots/11.jpg)
+
+### 2
+![Section](screenshots/12.jpg)
+
+### 3
+![Charts](screenshots/13.jpg)
+
+### 4
+![Charts](screenshots/14.jpg)
+
+### 5
+![Charts](screenshots/15.jpg)
+
+### 6
+![Charts](screenshots/16.jpg)
+
+
+## License
+
+MIT -- Free to use, modify, and distribute.
+
+## Contributing
+
+Pull requests welcome. Please open an issue first to discuss major changes.
+
+---
+
+---
 
 ## Canvas Suite
 
